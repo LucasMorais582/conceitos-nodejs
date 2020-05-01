@@ -25,6 +25,6 @@ Para inicializar a aplicação, basta rodar:
 ```
 yarn dev
 ```
-Para acessar a aplicação, basta acessar:
+Para acessar a aplicação:
 - http://localhost:3333
 
